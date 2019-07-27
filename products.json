@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Two bedroom house",
+        "price": 625000,
+        "image": { "fields": { "file": { "url": "./images/house1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Four bedroom house",
+        "price": 715000,
+        "image": { "fields": { "file": { "url": "./images/house2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Five bedroom house",
+        "price": 800000,
+        "image": { "fields": { "file": { "url": "./images/house3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Three bedroom house",
+        "price": 325000,
+        "image": { "fields": { "file": { "url": "./images/house4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Five bedroom house",
+        "price": 950000,
+        "image": { "fields": { "file": { "url": "./images/house5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Four bedroom house",
+        "price": 700000,
+        "image": { "fields": { "file": { "url": "./images/house6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title":  "Six bedroom house",
+        "price": 950000,
+        "image": { "fields": { "file": { "url": "./images/house7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Three bedroom house",
+        "price": 475000,
+        "image": { "fields": { "file": { "url": "./images/house8.jpg" } } }
+      }
+    }
+  ]
+}
