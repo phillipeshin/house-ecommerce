@@ -41,7 +41,13 @@
 .nav-icon {
     font-size: 1.5rem;
 }
-
+.nav-icon a {
+    color: white;
+    text-decoration: none;
+}
+.nav-icon a:hover {
+    color: black;
+}
 .cart-btn {
     position: relative;
     cursor: pointer;
@@ -89,6 +95,10 @@
     cursor: pointer;
     color: white;
     font-weight: bolder;
+}
+.banner-btn a {
+    text-decoration: none;
+    color: white;
 }
 .banner-btn:hover {
     background: transparent;
@@ -245,6 +255,7 @@
 }
 .item-amount {
     text-align: center;
+    justify-content: center;
 }
 
 /*End of cart items*/
